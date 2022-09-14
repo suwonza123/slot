@@ -1,0 +1,17 @@
+{
+  "name": "789betting-casino",
+  "theme": "syntax",
+  "version": "0.14.0",
+  "description": "789Betting หรือ 789Betnows เว็บพนัน คาสิโนออนไลน์ เกมมากมายพร้อมให้บริการ 24 ชั่วโมง เครดิตฟรี",
+  "keywords": [
+    "789Betting",
+    "789Bet",
+    "เว็บพนันออนไลน์",
+    "คาสิโนออนไลน์"
+  ],
+  "repository": "https://github.com/789bn/789betting-casino",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
